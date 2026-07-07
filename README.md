@@ -70,22 +70,17 @@ Tech Stack:
 - MongoDB
 - Firebase
 
----
-
-### 🚆 Railway Complaint Management System
-
-- Complaint Registration
-- Tracking
-- Admin Dashboard
+🔗 Repository:
+https://github.com/vijaygopale23/Smart-Canteen-Queue-Management-System
 
 ---
 
 ## 🏆 Coding Profiles
 
 <p>
-<a href="YOUR_LEETCODE_LINK">LeetCode</a> •
-<a href="YOUR_CODEFORCES_LINK">Codeforces</a> •
-<a href="YOUR_CODECHEF_LINK">CodeChef</a>
+<a href="https://leetcode.com/u/Vijay_Gopale11/">LeetCode</a> •
+<a href="https://www.geeksforgeeks.org/profile/vgopanq0f">GeeksforGeeks</a> •
+<a href="https://www.codechef.com/users/vijay_gopale11">CodeChef</a>
 </p>
 
 ---
@@ -136,15 +131,15 @@ Tech Stack:
 
 <p>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/vijay-gopale/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vgopale21@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/Vijay_Gopale11/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
